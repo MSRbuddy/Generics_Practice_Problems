@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MinimumString\MinimumString\bin\Debug\net6.0\MinimumString.exe
+C:\Users\USER\source\BL\MinimumString\MinimumString\bin\Debug\net6.0\MinimumString.deps.json
+C:\Users\USER\source\BL\MinimumString\MinimumString\bin\Debug\net6.0\MinimumString.runtimeconfig.json
+C:\Users\USER\source\BL\MinimumString\MinimumString\bin\Debug\net6.0\MinimumString.dll
+C:\Users\USER\source\BL\MinimumString\MinimumString\bin\Debug\net6.0\MinimumString.pdb
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.AssemblyInfo.cs
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.dll
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\refint\MinimumString.dll
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.pdb
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\MinimumString.genruntimeconfig.cache
+C:\Users\USER\source\BL\MinimumString\MinimumString\obj\Debug\net6.0\ref\MinimumString.dll
