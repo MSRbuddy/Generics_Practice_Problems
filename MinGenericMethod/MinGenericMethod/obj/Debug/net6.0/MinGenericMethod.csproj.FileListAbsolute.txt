@@ -1,0 +1,17 @@
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\MinGenericMethod.exe
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\MinGenericMethod.deps.json
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\MinGenericMethod.runtimeconfig.json
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\MinGenericMethod.dll
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\MinGenericMethod.pdb
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.AssemblyInfo.cs
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.dll
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\refint\MinGenericMethod.dll
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.pdb
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.genruntimeconfig.cache
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\ref\MinGenericMethod.dll
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\bin\Debug\net6.0\xunit.dll
+C:\Users\USER\source\BL\MinGenericMethod\MinGenericMethod\obj\Debug\net6.0\MinGenericMethod.csproj.CopyComplete

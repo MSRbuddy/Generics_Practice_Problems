@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MinGenericMethod/1.0.0": {
+        "dependencies": {
+          "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit": "1.0.0"
+        },
+        "runtime": {
+          "MinGenericMethod.dll": {}
+        }
+      },
+      "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit/1.0.0": {
+        "dependencies": {
+          "xunit": "1.9.0.1566"
+        }
+      },
+      "xunit/1.9.0.1566": {
+        "runtime": {
+          "lib/xunit.dll": {
+            "assemblyVersion": "1.9.0.1566",
+            "fileVersion": "1.9.0.1566"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinGenericMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SDsjdjcv0IPKuR7wbcJN3kpxLJBl9JT3Z+xAdGldza8WtAokoCtbiODi9y362C36YaHJ2z+b+gv4R+pBPTZOPg==",
+      "path": "netfx-system.collections.generic.ienumerable.foreach.tests.xunit/1.0.0",
+      "hashPath": "netfx-system.collections.generic.ienumerable.foreach.tests.xunit.1.0.0.nupkg.sha512"
+    },
+    "xunit/1.9.0.1566": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gTB3hsr/9WdQdwv+4B7I0GzJq2XYiJXI71LV+j/KITieLxzF9vRj2o3nN0BtmFUYo/TIQ5uU9e3DByfzn/YjnQ==",
+      "path": "xunit/1.9.0.1566",
+      "hashPath": "xunit.1.9.0.1566.nupkg.sha512"
+    }
+  }
+}

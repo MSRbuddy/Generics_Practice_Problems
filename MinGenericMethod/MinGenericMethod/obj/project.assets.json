@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "xunit": "1.9.0"
+        }
+      },
+      "xunit/1.9.0.1566": {
+        "type": "package",
+        "compile": {
+          "lib/xunit.dll": {}
+        },
+        "runtime": {
+          "lib/xunit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit/1.0.0": {
+      "sha512": "SDsjdjcv0IPKuR7wbcJN3kpxLJBl9JT3Z+xAdGldza8WtAokoCtbiODi9y362C36YaHJ2z+b+gv4R+pBPTZOPg==",
+      "type": "package",
+      "path": "netfx-system.collections.generic.ienumerable.foreach.tests.xunit/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/netfx/System/Collections/Generic/IEnumerable/ForEachSpec.cs",
+        "netfx-system.collections.generic.ienumerable.foreach.tests.xunit.1.0.0.nupkg.sha512",
+        "netfx-system.collections.generic.ienumerable.foreach.tests.xunit.nuspec"
+      ]
+    },
+    "xunit/1.9.0.1566": {
+      "sha512": "gTB3hsr/9WdQdwv+4B7I0GzJq2XYiJXI71LV+j/KITieLxzF9vRj2o3nN0BtmFUYo/TIQ5uU9e3DByfzn/YjnQ==",
+      "type": "package",
+      "path": "xunit/1.9.0.1566",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/xunit.dll",
+        "lib/xunit.dll.tdnet",
+        "lib/xunit.runner.msbuild.dll",
+        "lib/xunit.runner.tdnet.dll",
+        "lib/xunit.runner.utility.dll",
+        "lib/xunit.xml",
+        "xunit.1.9.0.1566.nupkg.sha512",
+        "xunit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\source\\BL\\MinGenericMethod\\MinGenericMethod\\MinGenericMethod.csproj",
+      "projectName": "MinGenericMethod",
+      "projectPath": "C:\\Users\\USER\\source\\BL\\MinGenericMethod\\MinGenericMethod\\MinGenericMethod.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\BL\\MinGenericMethod\\MinGenericMethod\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "netfx-System.Collections.Generic.IEnumerable.ForEach.Tests.xUnit 1.0.0 depends on xunit (>= 1.9.0) but xunit 1.9.0 was not found. An approximate best match of xunit 1.9.0.1566 was resolved.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'xunit 1.9.0.1566' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
