@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\bin\Debug\net6.0\MinimumFloat.exe
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\bin\Debug\net6.0\MinimumFloat.deps.json
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\bin\Debug\net6.0\MinimumFloat.runtimeconfig.json
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\bin\Debug\net6.0\MinimumFloat.dll
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\bin\Debug\net6.0\MinimumFloat.pdb
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.AssemblyInfo.cs
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.dll
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\refint\MinimumFloat.dll
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.pdb
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\MinimumFloat.genruntimeconfig.cache
+C:\Users\USER\source\BL\MinimumFloat\MinimumFloat\obj\Debug\net6.0\ref\MinimumFloat.dll
