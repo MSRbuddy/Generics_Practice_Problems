@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.AssemblyInfo.cs
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\bin\Debug\net6.0\DeleteMethod.exe
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\bin\Debug\net6.0\DeleteMethod.deps.json
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\bin\Debug\net6.0\DeleteMethod.runtimeconfig.json
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\bin\Debug\net6.0\DeleteMethod.dll
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\bin\Debug\net6.0\DeleteMethod.pdb
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.dll
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\refint\DeleteMethod.dll
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.pdb
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\DeleteMethod.genruntimeconfig.cache
+C:\Users\USER\source\BL\DeleteMethod\DeleteMethod\obj\Debug\net6.0\ref\DeleteMethod.dll
