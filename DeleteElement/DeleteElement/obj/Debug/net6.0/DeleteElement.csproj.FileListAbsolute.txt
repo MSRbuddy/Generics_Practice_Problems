@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\bin\Debug\net6.0\DeleteElement.exe
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\bin\Debug\net6.0\DeleteElement.deps.json
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\bin\Debug\net6.0\DeleteElement.runtimeconfig.json
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\bin\Debug\net6.0\DeleteElement.dll
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\bin\Debug\net6.0\DeleteElement.pdb
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.AssemblyInfo.cs
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.dll
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\refint\DeleteElement.dll
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.pdb
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\DeleteElement.genruntimeconfig.cache
+C:\Users\USER\source\BL\DeleteElement\DeleteElement\obj\Debug\net6.0\ref\DeleteElement.dll
