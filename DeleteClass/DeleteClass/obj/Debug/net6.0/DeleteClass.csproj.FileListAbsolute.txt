@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\bin\Debug\net6.0\DeleteClass.exe
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\bin\Debug\net6.0\DeleteClass.deps.json
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\bin\Debug\net6.0\DeleteClass.runtimeconfig.json
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\bin\Debug\net6.0\DeleteClass.dll
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\bin\Debug\net6.0\DeleteClass.pdb
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.AssemblyInfo.cs
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.dll
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\refint\DeleteClass.dll
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.pdb
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\DeleteClass.genruntimeconfig.cache
+C:\Users\USER\source\BL\DeleteClass\DeleteClass\obj\Debug\net6.0\ref\DeleteClass.dll
