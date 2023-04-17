@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\bin\Debug\net6.0\MinimumInteger.exe
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\bin\Debug\net6.0\MinimumInteger.deps.json
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\bin\Debug\net6.0\MinimumInteger.runtimeconfig.json
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\bin\Debug\net6.0\MinimumInteger.dll
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\bin\Debug\net6.0\MinimumInteger.pdb
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.AssemblyInfo.cs
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.dll
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\refint\MinimumInteger.dll
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.pdb
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\MinimumInteger.genruntimeconfig.cache
+C:\Users\USER\source\BL\MinimumInteger\MinimumInteger\obj\Debug\net6.0\ref\MinimumInteger.dll
