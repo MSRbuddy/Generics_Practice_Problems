@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.AssemblyInfo.cs
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\bin\Debug\net6.0\MinGenericClass.exe
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\bin\Debug\net6.0\MinGenericClass.deps.json
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\bin\Debug\net6.0\MinGenericClass.runtimeconfig.json
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\bin\Debug\net6.0\MinGenericClass.dll
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\bin\Debug\net6.0\MinGenericClass.pdb
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.dll
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\refint\MinGenericClass.dll
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.pdb
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\MinGenericClass.genruntimeconfig.cache
+C:\Users\USER\source\BL\MinGenericClass\MinGenericClass\obj\Debug\net6.0\ref\MinGenericClass.dll
